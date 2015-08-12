@@ -1,0 +1,8 @@
+c:\users\govanify\documents\visual studio 2013\Projects\LZOvl decompressor -KH3D\LZOvl decompressor -KH3D\bin\Debug\LZOvl decompressor -KH3D.exe.config
+c:\users\govanify\documents\visual studio 2013\Projects\LZOvl decompressor -KH3D\LZOvl decompressor -KH3D\obj\Debug\LZOvl decompressor -KH3D.csprojResolveAssemblyReference.cache
+c:\users\govanify\documents\visual studio 2013\Projects\LZOvl decompressor -KH3D\LZOvl decompressor -KH3D\obj\Debug\LZOvl_decompressor__KH3D.Properties.Resources.resources
+c:\users\govanify\documents\visual studio 2013\Projects\LZOvl decompressor -KH3D\LZOvl decompressor -KH3D\obj\Debug\LZOvl decompressor -KH3D.csproj.GenerateResource.Cache
+c:\users\govanify\documents\visual studio 2013\Projects\LZOvl decompressor -KH3D\LZOvl decompressor -KH3D\bin\Debug\LZOvl decompressor -KH3D.exe
+c:\users\govanify\documents\visual studio 2013\Projects\LZOvl decompressor -KH3D\LZOvl decompressor -KH3D\bin\Debug\LZOvl decompressor -KH3D.pdb
+c:\users\govanify\documents\visual studio 2013\Projects\LZOvl decompressor -KH3D\LZOvl decompressor -KH3D\obj\Debug\LZOvl decompressor -KH3D.exe
+c:\users\govanify\documents\visual studio 2013\Projects\LZOvl decompressor -KH3D\LZOvl decompressor -KH3D\obj\Debug\LZOvl decompressor -KH3D.pdb
